@@ -4,8 +4,6 @@
 
 _Create and run a GitHub Actions workflow._
 
-_this is a test_
-
 </header>
 
 ## Step 5: Trigger the workflow
